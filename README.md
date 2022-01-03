@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 </a>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/natee/count.svg" />
+  <img src="https://profile-counter.glitch.me/zongyinliu/count.svg" />
 </p>
 
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/zongyinliu/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/zongyinliu/github-readme-stats)
