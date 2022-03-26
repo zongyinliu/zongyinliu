@@ -5,7 +5,6 @@
 
 🔭 I’m currently learning Deep Learning and Computer Vision.
 
-😄 Personal ideal: Realize the freedom of wealth, and then take my family to see the world.
 
 
 ### 💬 Contact Me 
