@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Liu zy](https://github.com/zongyinliu) 👨‍💻
+### Hi there 👋, I'm [Zongyin Liu](https://github.com/zongyinliu) 👨‍💻
 
 
 🌱 I’m currently studying at Qilu University of Technology, Jinan, Shandong, China.
