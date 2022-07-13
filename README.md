@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm [Zongyin Liu](https://github.com/zongyinliu) 👨‍💻
 
 
-🌱 I’m currently studying at Qilu University of Technology, Jinan, China.
+🌱 I’m currently studying at Qilu University of Technology (Shandong Academy of Sciences), Jinan, China.
 
 🔭 I’m currently learning Deep Learning and Computer Vision.
 
