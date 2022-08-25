@@ -3,8 +3,7 @@
 
 🌱 I’m currently studying at Qilu University of Technology (Shandong Academy of Sciences), Jinan, China.
 
-🔭 I’m currently learning Deep Learning and Computer Vision.
-
+🔭 Research Interests: Efficient Network Model, Image Recognition.
 
 
 ### 💬 Contact Me 
